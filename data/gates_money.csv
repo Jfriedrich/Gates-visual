@@ -1,568 +1,556 @@
 grant_title,id,organization,total_amount,group,Grant start date,start_month,start_day,start_year
-Afghanistan,1,New Mexico Business Roundtable for Educational Excellence,24.4483,low,2/4/2010,2,4,2009
-Afghanistan,2,Trustees of Dartmouth College,26.5382,low,8/3/2009,8,3,2010
-Afghanistan,3,Denver School of Science and Technology Inc.,25.314,low,11/12/2009,11,12,2011
-Albania,4,The NEA Foundation for the Improvement of Education,6.5853,low,3/11/2010,3,11,2009
-Albania,5,New Schools for New Orleans,6.8977,low,10/12/2009,10,12,2010
-Albania,6,Battelle For Kids,6.435,low,6/30/2009,6,30,2011
-Algeria,7,FSG Social Impact Advisors,165.2191,low,9/24/2009,9,24,2009
-Algeria,8,Aspire Public Schools,166.7126,low,10/29/2009,10,29,2010
-Algeria,9,Educational Policy Improvement Center,172.516,low,11/16/2009,11,16,2011
-Angola,10,E3 Alliance,252.3366,low,10/28/2009,10,28,2009
-Angola,11,"Hillsborough Education Foundation, Inc.",262.3005,low,11/2/2009,11,2,2010
-Angola,12,The College-Ready Promise,263.4348,low,11/2/2009,11,2,2011
+Niue,307,Hillsborough County Public Schools,0.0465,high,1/10/2010,11,19,2009
+Niue,308,Hillsborough County Public Schools,0.0483,high,1/11/2010,11,19,2010
+Kiribati,196,Communities Foundation of Texas,0.0551,high,9/1/2008,9,1,2009
+Niue,309,Hillsborough County Public Schools,0.0553,high,1/12/2010,11,19,2011
+Kiribati,198,Americas Promise-The Alliance For Youth,0.0747,high,3/19/2008,3,19,2011
+Kiribati,197,CELT Corporation,0.0774,high,11/19/2009,11,19,2010
+Nauru,286,Hillsborough County Public Schools,0.094,high,12/20/2009,11,19,2009
+Nauru,287,Hillsborough County Public Schools,0.0942,high,12/21/2009,11,19,2010
+Cook Islands,419,Hillsborough County Public Schools,0.1106,high,5/2/2010,11,19,2010
+Cook Islands,418,Hillsborough County Public Schools,0.1113,high,5/1/2010,11,19,2009
+Cook Islands,420,Hillsborough County Public Schools,0.1159,high,5/3/2010,11,19,2011
+Sao Tome & Principe,367,Hillsborough County Public Schools,0.1632,high,3/11/2010,11,19,2009
+Sao Tome & Principe,368,Hillsborough County Public Schools,0.1718,high,3/12/2010,11,19,2010
+Nauru,288,Hillsborough County Public Schools,0.1788,high,12/22/2009,11,19,2011
+Saint Vincent & Grenadines,363,Hillsborough County Public Schools,0.2141,high,3/7/2010,11,19,2011
+Saint Vincent & Grenadines,361,Hillsborough County Public Schools,0.2164,high,3/5/2010,11,19,2009
+Saint Vincent & Grenadines,362,Hillsborough County Public Schools,0.2239,high,3/6/2010,11,19,2010
+Sao Tome & Principe,369,Hillsborough County Public Schools,0.2255,high,3/13/2010,11,19,2011
+Dominica,445,Hillsborough County Public Schools,0.2721,high,5/28/2010,11,19,2009
+Palau,319,Hillsborough County Public Schools,0.2763,high,1/22/2010,11,19,2009
+Dominica,446,Hillsborough County Public Schools,0.2797,high,5/29/2010,11,19,2010
+Palau,320,Hillsborough County Public Schools,0.2839,high,1/23/2010,11,19,2010
+Dominica,447,Hillsborough County Public Schools,0.2862,high,5/30/2010,11,19,2011
+Samoa,366,Hillsborough County Public Schools,0.332,high,3/10/2010,11,19,2011
+Samoa,364,Hillsborough County Public Schools,0.345,high,3/8/2010,11,19,2009
+Samoa,365,Hillsborough County Public Schools,0.3459,high,3/9/2010,11,19,2010
+Saint Kitts & Nevis,356,Hillsborough County Public Schools,0.3575,high,2/28/2010,11,19,2010
+Saint Kitts & Nevis,355,Hillsborough County Public Schools,0.3663,high,2/27/2010,11,19,2009
+Tonga,507,Hillsborough County Public Schools,0.3743,high,7/29/2010,11,19,2011
+Tonga,506,Hillsborough County Public Schools,0.3755,high,7/28/2010,11,19,2010
+Tonga,505,Hillsborough County Public Schools,0.3879,high,7/27/2010,11,19,2009
+Saint Kitts & Nevis,357,Hillsborough County Public Schools,0.4124,high,3/1/2010,11,19,2011
+Vanuatu,541,Hillsborough County Public Schools,0.4732,high,9/1/2010,11,19,2009
+Vanuatu,542,Hillsborough County Public Schools,0.4817,high,9/2/2010,11,19,2010
+Vanuatu,543,Hillsborough County Public Schools,0.516,high,9/3/2010,11,19,2011
+Comoros,410,Hillsborough County Public Schools,0.5174,high,4/23/2010,11,19,2010
+Comoros,409,Hillsborough County Public Schools,0.5195,high,4/22/2010,11,19,2009
+Comoros,411,Hillsborough County Public Schools,0.5272,high,4/24/2010,11,19,2011
+Cape Verde,391,Hillsborough County Public Schools,0.5909,high,4/4/2010,11,19,2009
+Cape Verde,392,Hillsborough County Public Schools,0.6499,high,4/5/2010,11,19,2010
+Cape Verde,393,Hillsborough County Public Schools,0.7281,high,4/6/2010,11,19,2011
+Seychelles,380,Hillsborough County Public Schools,0.7709,high,3/24/2010,11,19,2010
+Seychelles,379,Hillsborough County Public Schools,0.8216,high,3/23/2010,11,19,2009
+Fiji,106,Gateway to College National Network,0.8876,medium,9/1/2008,9,1,2009
 Antigua & Barbuda,13,Memphis City Schools Foundation,1.0074,low,11/2/2009,11,2,2009
 Antigua & Barbuda,14,Pittsburgh Public Schools,1.0505,low,11/2/2009,11,2,2010
+Saint Lucia,358,Hillsborough County Public Schools,1.0919,high,3/2/2010,11,19,2009
+Saint Lucia,359,Hillsborough County Public Schools,1.1142,high,3/3/2010,11,19,2010
+Saint Lucia,360,Hillsborough County Public Schools,1.1395,high,3/4/2010,11,19,2011
+Maldives,247,"Rockefeller Philanthropy Advisors, Inc.",1.1499,high,3/1/2008,3,1,2009
+Djibouti,442,Hillsborough County Public Schools,1.1548,high,5/25/2010,11,19,2009
+Seychelles,381,Hillsborough County Public Schools,1.1559,high,3/25/2010,11,19,2011
+Maldives,249,Atlanta Public Schools,1.1581,high,1/13/2010,1,13,2011
+Maldives,248,Denver Public Schools,1.1599,high,1/4/2010,1,4,2010
+Djibouti,443,Hillsborough County Public Schools,1.1688,high,5/26/2010,11,19,2010
 Antigua & Barbuda,15,Greater Houston Community Foundation,1.2977,low,10/28/2009,10,28,2011
-Argentina,16,"New Visions for Public Schools, Inc",418.7746,low,11/10/2009,11,10,2009
-Argentina,17,School District of Philadelphia,426.0262,low,11/13/2009,11,13,2010
-Argentina,18,Hamilton County Department of Education,434.6935,low,11/1/2009,11,1,2011
-Armenia,19,Internationals Network For Public Schools Inc,7.9742,low,3/24/2010,3,24,2009
-Armenia,20,Achieve Minneapolis,7.8514,low,10/29/2009,10,29,2010
-Armenia,21,The College-Ready Promise,8.2721,low,11/4/2009,11,4,2011
-Australia,22,Texas Public Education Reform Foundation,599.0315,low,10/1/2008,10,1,2009
-Australia,23,New York City Center for Charter School Excellence,592.4785,low,10/30/2009,10,30,2010
-Australia,24,"SEED Foundation, Inc.",595.2969,low,1/28/2010,1,28,2011
-Austria,25,City of New Haven,84.0492,low,11/17/2009,11,17,2009
-Austria,26,President and Fellows of Harvard College,89.7307,low,5/13/2009,5,13,2010
-Austria,27,The Library of Congress,88.3732,low,3/1/2008,3,1,2011
-Azerbaijan,28,Austin Voices for Education and Youth,56.8718,low,10/1/2009,10,1,2009
-Azerbaijan,29,Prichard Committee for Academic Excellence,58.5329,medium,4/30/2010,4,30,2010
-Azerbaijan,30,Council Of The Great City Schools,64.7208,medium,3/18/2010,3,18,2011
-"Bahamas, The",31,New Schools for New Orleans,1.9034,medium,11/4/2009,11,4,2009
-"Bahamas, The",32,Education Equality Project,2.7347,medium,6/19/2009,6,19,2010
-"Bahamas, The",33,Education Writers Association,5.0133,medium,7/22/2009,7,22,2011
-Bahrain,34,Alliance for Education,27.0751,medium,2/26/2010,2,26,2009
-Bahrain,35,Texas Public Education Reform Foundation,27.9484,medium,7/28/2009,7,28,2010
-Bahrain,36,Charlotte-Mecklenburg Schools,27.0429,medium,11/9/2009,11,9,2011
-Bangladesh,37,Washington State Commission on African American Affairs,153.3486,medium,11/20/2009,11,20,2009
-Bangladesh,38,Cristo Rey Network,157.8669,medium,11/6/2009,11,6,2010
-Bangladesh,39,American Institutes for Research,160.115,medium,3/1/2008,3,1,2011
-Barbados,40,Professional Educator Standards Board,3.658,medium,10/9/2009,10,9,2009
-Barbados,41,Fund for Public Schools Inc.,3.5481,medium,10/27/2009,10,27,2010
-Barbados,42,DC VOICE,3.4972,medium,7/1/2008,7,1,2011
-Belarus,43,Tiger Woods Foundation Inc.,107.1238,medium,8/29/2009,8,29,2009
-Belarus,44,"Public Agenda Foundation, Inc.",110.5189,medium,3/2/2009,3,2,2010
-Belarus,45,Rensselaer Polytechnic Institute,111.4963,medium,9/29/2009,9,29,2011
-Belgium,46,National Commission on Teachings & America's Future,122.43,medium,1/1/2009,1,1,2009
-Belgium,47,President and Fellows of Harvard College,129.1643,medium,2/25/2010,2,25,2010
-Belgium,48,Illinois State Board of Education,129.9276,medium,10/1/2008,10,1,2011
-Belize,49,Rensselaer Polytechnic Institute,13.747,medium,12/1/2008,12,1,2009
-Belize,50,New Schools Fund dba NewSchools Venture Fund,13.9414,medium,9/10/2009,9,10,2010
-Belize,51,New Schools Fund dba NewSchools Venture Fund,14.2332,medium,3/26/2009,3,26,2011
-Benin,52,Texas Charter Schools Association,27.4052,medium,5/18/2009,5,18,2009
-Benin,53,American Federation Of Teachers Educational Foundation,27.9443,medium,6/23/2009,6,23,2010
-Benin,54,National Center For Educational Achievement,27.5198,medium,11/21/2009,11,21,2011
-Bhutan,55,Military Child Education Coalition,-7.5077,medium,10/1/2008,10,1,2009
-Bhutan,56,DC Public Education Fund,-7.4517,medium,11/10/2009,11,10,2010
-Bhutan,57,Grantmakers for Education,-7.5757,medium,11/6/2009,11,6,2011
-Bolivia,58,Envision Schools,147.7118,medium,6/1/2008,6,1,2009
-Bolivia,59,Silicon Valley Community Foundation,149.3575,medium,11/10/2009,11,10,2010
-Bolivia,60,"ACT, Inc.",149.7116,medium,10/1/2008,10,1,2011
-Bosnia & Herzegovina,61,Arkansas Department of Education,27.1385,medium,11/19/2009,11,19,2009
-Bosnia & Herzegovina,62,Florida Department of Education,27.3532,medium,11/19/2009,11,19,2010
-Bosnia & Herzegovina,63,Georgia Department of Education,29.66,medium,11/19/2009,11,19,2011
-Botswana,64,Louisiana Department of Education,19.0307,medium,11/19/2009,11,19,2009
-Botswana,65,Ohio Department of Education,20.1171,medium,11/19/2009,11,19,2010
-Botswana,66,California Polytechnic State University Foundation,19.8567,medium,1/8/2009,1,8,2011
-Brazil,67,Tennessee State Collaborative on Reforming Education,1400.1118,medium,2/19/2010,2,19,2009
-Brazil,68,Twenty First Century Foundation,1392.6399,medium,5/1/2008,5,1,2010
-Brazil,69,Alliance for Education,1419.0984,medium,9/17/2008,9,17,2011
-Brunei,70,National Council of La Raza,22.5585,medium,11/10/2009,11,10,2009
-Brunei,71,American Institutes for Research,23.009,medium,12/1/2008,12,1,2010
-Brunei,72,"University System of Georgia Foundation, Inc.",24.09,medium,11/11/2009,11,11,2011
-Bulgaria,73,Common Core Inc.,45.5866,medium,12/17/2009,12,17,2009
-Bulgaria,74,National Council for the Social Studies,47.5596,medium,6/1/2008,6,1,2010
-Bulgaria,75,Pittsburgh Public Schools,52.401,medium,11/13/2009,11,13,2011
-Burkina Faso,76,The NEA Foundation for the Improvement of Education,31.4858,medium,10/22/2009,10,22,2009
-Burkina Faso,77,"L.U.L.A.C. Institute, Inc.",32.0538,medium,3/1/2008,3,1,2010
-Burkina Faso,78,"University of California, Los Angeles",32.2443,medium,3/1/2008,3,1,2011
-Burundi,79,"Leadership Conference on Civil Rights Education Fund, Inc.",38.9325,medium,10/26/2009,10,26,2009
-Burundi,80,Florida Department of Education,41.1171,medium,10/30/2009,10,30,2010
-Burundi,81,Thomas B. Fordham Institute,41.6264,medium,6/15/2009,6,15,2011
-Dominican Republic,82,Council of State Governments,30.952,medium,3/18/2010,3,18,2009
-Dominican Republic,83,Mexican American Legal Defense and Educational Fund,31.442,medium,8/28/2009,8,28,2010
-Dominican Republic,84,"L.U.L.A.C. Institute, Inc.",29.9645,medium,9/21/2009,9,21,2011
-Ecuador,85,National Summer Learning Association,134.8668,medium,11/1/2009,11,1,2009
-Ecuador,86,"Teachers College, Columbia University",135.5452,medium,9/29/2009,9,29,2010
-Ecuador,87,Communities Foundation of Texas,136.0301,medium,10/15/2009,10,15,2011
-Egypt,88,Business Higher Education Forum,268.852,medium,11/4/2009,11,4,2009
-Egypt,89,National Staff Development Council,276.3722,medium,11/1/2008,11,1,2010
-Egypt,90,Southeast Asia Resource Action Center,286.1054,medium,8/28/2009,8,28,2011
-El Salvador,91,Roads to Success Inc.,14.3197,medium,10/26/2009,10,26,2009
-El Salvador,92,MCNC,14.1367,medium,3/6/2009,3,6,2010
-El Salvador,93,Regents of the University of California at Berkeley,13.8254,medium,10/22/2008,10,22,2011
-Equatorial Guinea,94,National Association of State Boards of Education,25.7157,medium,10/26/2009,10,26,2009
-Equatorial Guinea,95,Pollinate Ventures,25.5787,medium,11/8/2009,11,8,2010
-Equatorial Guinea,96,Fund for Public Schools Inc.,25.669,medium,11/13/2009,11,13,2011
-Eritrea,97,KIPP Foundation,6.1612,medium,11/5/2009,11,5,2009
-Eritrea,98,Mathematica Policy Research,6.1925,medium,7/16/2009,7,16,2010
-Eritrea,99,MCNC,6.2958,medium,5/1/2008,5,1,2011
-Estonia,100,Guaranteach,25.1913,medium,3/18/2010,3,18,2009
-Estonia,101,"Strive: Cincinnati/Northern Kentucky, LLC",29.0265,medium,7/1/2008,7,1,2010
-Estonia,102,New Teacher Center,29.6542,medium,10/13/2009,10,13,2011
-Ethiopia,103,New Technology Foundation,144.537,medium,9/1/2008,9,1,2009
-Ethiopia,104,"University of California, Los Angeles",148.3437,medium,12/1/2008,12,1,2010
-Ethiopia,105,National Conference of State Legislatures,149.9082,medium,5/1/2008,5,1,2011
-Fiji,106,Gateway to College National Network,0.8876,medium,9/1/2008,9,1,2009
 Fiji,107,Ohio Business Alliance for Higher Education and the Economy,1.3405,medium,11/1/2008,11,1,2010
 Fiji,108,Social Science Research Council,1.5055,medium,11/5/2009,11,5,2011
-Finland,109,National Alliance For Public Charter Schools,75.271,medium,10/30/2009,10,30,2009
-Finland,110,Nellie Mae Education Foundation,83.3728,medium,1/1/2009,1,1,2010
-Finland,111,Seattle Biomedical Research Institute,75.9098,medium,9/1/2008,9,1,2011
-France,112,"Teach for America, Inc.",480.5938,medium,10/1/2009,10,1,2009
-France,113,"Fund for the City of New York, Inc.",488.4332,medium,5/1/2008,5,1,2010
-France,114,National Indian Education Association,462.5941,medium,8/31/2009,8,31,2011
-Gabon,115,Center on Education Policy,6.5171,medium,7/1/2008,7,1,2009
-Gabon,116,Texas Valley Communities Foundation,6.661,medium,5/1/2008,5,1,2010
-Gabon,117,President and Fellows of Harvard College,7.1733,medium,8/1/2008,8,1,2011
-"Gambia, The",118,"Alliance for Excellent Education, Inc.",6.7684,medium,11/4/2009,11,4,2009
-"Gambia, The",119,Regents University Of California Los Angeles,6.944,medium,5/11/2009,5,11,2010
-"Gambia, The",120,Innosight Institute Inc,7.0531,medium,7/1/2008,7,1,2011
-Georgia,121,Committee for Economic Development,10.0446,medium,5/5/2009,5,5,2009
-Georgia,122,Prichard Committee for Academic Excellence,9.4743,medium,11/16/2009,11,16,2010
-Georgia,123,National Association of State Boards of Education,10.4328,medium,5/1/2008,5,1,2011
-Germany,124,National Center For Educational Achievement,799.2322,medium,9/1/2008,9,1,2009
-Germany,125,National Council of La Raza,827.0112,medium,3/1/2008,3,1,2010
-Germany,126,Partnership for Learning,805.9671,medium,3/11/2009,3,11,2011
-Ghana,127,Hope Street Group,58.0277,medium,11/7/2009,11,7,2009
-Ghana,128,Institute for a Competitive Workforce,59.4589,medium,11/11/2009,11,11,2010
-Ghana,129,Educational Policy Improvement Center,59.2606,medium,5/5/2009,5,5,2011
-Greece,130,Target Area Development Corporation,114.7317,medium,7/1/2008,7,1,2009
-Greece,131,National Association of Street Schools,107.6441,medium,5/1/2008,5,1,2010
-Greece,132,Tides Center,106.4736,medium,11/10/2009,11,10,2011
 Grenada,133,The Schott Foundation For Public Education,1.7286,medium,7/1/2008,7,1,2009
 Grenada,134,National School Boards Foundation,1.7461,medium,4/25/2009,4,25,2010
 Grenada,135,National Student Clearinghouse,1.7642,medium,11/1/2008,11,1,2011
-Guatemala,136,National Urban League Inc.,51.1263,medium,10/26/2009,10,26,2009
-Guatemala,137,The Washington State Board of Education,50.5749,medium,3/1/2008,3,1,2010
-Guatemala,138,Denver Public Schools,50.2331,medium,11/13/2009,11,13,2011
-Guinea,139,Business Higher Education Forum,32.6014,medium,7/1/2008,7,1,2009
-Guinea,140,National Council of La Raza,32.8177,medium,11/10/2009,11,10,2010
-Guinea,141,Friendship Public Charter School,33.1504,medium,11/3/2009,11,3,2011
+Djibouti,444,Hillsborough County Public Schools,1.7987,high,5/27/2010,11,19,2011
+"Bahamas, The",31,New Schools for New Orleans,1.9034,medium,11/4/2009,11,4,2009
+Solomon Islands,460,Hillsborough County Public Schools,2.2189,high,6/12/2010,11,19,2009
+Solomon Islands,461,Hillsborough County Public Schools,2.2297,high,6/13/2010,11,19,2010
+Solomon Islands,462,Hillsborough County Public Schools,2.2389,high,6/14/2010,11,19,2011
+Lesotho,220,The Big Picture Company,2.3531,high,7/15/2009,7,15,2009
+Lesotho,222,Idea Academy Inc,2.6246,high,11/1/2008,11,1,2011
+Lesotho,221,"Rockefeller Philanthropy Advisors, Inc.",2.6993,high,9/25/2009,9,25,2010
+"Bahamas, The",32,Education Equality Project,2.7347,medium,6/19/2009,6,19,2010
+Iceland,159,College Success Foundation,2.8108,high,11/1/2008,11,1,2011
+Montenegro,271,Hillsborough County Public Schools,2.843,high,12/5/2009,11,19,2009
+Swaziland,478,Hillsborough County Public Schools,2.8592,high,6/30/2010,11,19,2009
+Swaziland,479,Hillsborough County Public Schools,2.8898,high,7/1/2010,11,19,2010
+Swaziland,480,Hillsborough County Public Schools,2.9169,high,7/2/2010,11,19,2011
+Iceland,158,Center on Education Policy,2.9422,high,9/8/2009,9,8,2010
+Malta,253,The College-Ready Promise,2.9692,high,11/19/2009,11,19,2009
+Malta,254,Memphis City Schools,3.012,high,11/19/2009,11,19,2010
+Malta,255,Hillsborough County Public Schools,3.0309,high,11/19/2009,11,19,2011
+Iceland,157,Recovery School District,3.0537,high,10/22/2009,10,22,2009
+Barbados,42,DC VOICE,3.4972,medium,7/1/2008,7,1,2011
+Barbados,41,Fund for Public Schools Inc.,3.5481,medium,10/27/2009,10,27,2010
+Montenegro,272,Hillsborough County Public Schools,3.565,high,12/6/2009,11,19,2010
+Montenegro,273,Hillsborough County Public Schools,3.6018,high,12/7/2009,11,19,2011
+Barbados,40,Professional Educator Standards Board,3.658,medium,10/9/2009,10,9,2009
+Rwanda,352,Hillsborough County Public Schools,3.7864,high,2/24/2010,11,19,2009
+Rwanda,353,Hillsborough County Public Schools,3.9692,high,2/25/2010,11,19,2010
 Guinea-Bissau,142,Local Initiatives Support Corporation,4.2708,medium,8/27/2009,8,27,2009
 Guinea-Bissau,143,Thomas B. Fordham Institute,4.3053,medium,10/10/2009,10,10,2010
+Rwanda,354,Hillsborough County Public Schools,4.3249,high,2/26/2010,11,19,2011
 Guinea-Bissau,144,NCB Capital Impact,4.5537,medium,4/8/2010,4,8,2011
-Guyana,145,Baton Rouge Area Foundation,7.6909,medium,11/3/2009,11,3,2009
-Guyana,146,University of Washington,7.4287,medium,11/18/2009,11,18,2010
+"Bahamas, The",33,Education Writers Association,5.0133,medium,7/22/2009,7,22,2011
+Slovenia,459,Hillsborough County Public Schools,5.0269,high,6/11/2010,11,19,2011
+Slovenia,457,Hillsborough County Public Schools,5.4237,high,6/9/2010,11,19,2009
+Slovenia,458,Hillsborough County Public Schools,5.5184,high,6/10/2010,11,19,2010
+Mauritius,259,Hillsborough County Public Schools,5.6667,high,11/23/2009,11,19,2009
+Mauritius,260,Hillsborough County Public Schools,5.9566,high,11/24/2009,11,19,2010
+Eritrea,97,KIPP Foundation,6.1612,medium,11/5/2009,11,5,2009
+Eritrea,98,Mathematica Policy Research,6.1925,medium,7/16/2009,7,16,2010
+Eritrea,99,MCNC,6.2958,medium,5/1/2008,5,1,2011
+Albania,6,Battelle For Kids,6.435,low,6/30/2009,6,30,2011
+Gabon,115,Center on Education Policy,6.5171,medium,7/1/2008,7,1,2009
+Albania,4,The NEA Foundation for the Improvement of Education,6.5853,low,3/11/2010,3,11,2009
+Gabon,116,Texas Valley Communities Foundation,6.661,medium,5/1/2008,5,1,2010
+"Gambia, The",118,"Alliance for Excellent Education, Inc.",6.7684,medium,11/4/2009,11,4,2009
+Albania,5,New Schools for New Orleans,6.8977,low,10/12/2009,10,12,2010
+Mauritius,261,Hillsborough County Public Schools,6.9329,high,11/25/2009,11,19,2011
+"Gambia, The",119,Regents University Of California Los Angeles,6.944,medium,5/11/2009,5,11,2010
+"Gambia, The",120,Innosight Institute Inc,7.0531,medium,7/1/2008,7,1,2011
+Gabon,117,President and Fellows of Harvard College,7.1733,medium,8/1/2008,8,1,2011
+Costa Rica,421,Hillsborough County Public Schools,7.1873,high,5/4/2010,11,19,2009
+Costa Rica,423,Hillsborough County Public Schools,7.2129,high,5/6/2010,11,19,2011
 Guyana,147,Achievement First Inc.,7.4154,medium,10/9/2009,10,9,2011
-Haiti,148,American Federation Of Teachers Educational Foundation,8.1284,medium,1/1/2009,1,1,2009
+Guyana,146,University of Washington,7.4287,medium,11/18/2009,11,18,2010
+Costa Rica,422,Hillsborough County Public Schools,7.584,high,5/5/2010,11,19,2010
+Guyana,145,Baton Rouge Area Foundation,7.6909,medium,11/3/2009,11,3,2009
+Cyprus,435,Hillsborough County Public Schools,7.8218,high,5/18/2010,11,19,2011
+Armenia,20,Achieve Minneapolis,7.8514,low,10/29/2009,10,29,2010
 Haiti,149,President and Fellows of Harvard College,7.9624,medium,11/12/2009,11,12,2010
+Armenia,19,Internationals Network For Public Schools Inc,7.9742,low,3/24/2010,3,24,2009
 Haiti,150,Team Pennsylvania Foundation,7.9993,medium,11/1/2008,11,1,2011
-Honduras,151,The Education Trust,47.326,medium,1/21/2010,1,21,2009
-Honduras,152,Ohio Grantmakers Forum,47.4738,medium,7/18/2009,7,18,2010
-Honduras,153,University of Wisconsin,47.0917,medium,3/1/2008,3,1,2011
-Hungary,154,"Teach for America, Inc.",70.3001,medium,6/26/2009,6,26,2009
-Hungary,155,United Way Inc.,70.5821,high,1/15/2009,1,15,2010
-Hungary,156,Public Education Network,69.1482,high,7/10/2009,7,10,2011
-Iceland,157,Recovery School District,3.0537,high,10/22/2009,10,22,2009
-Iceland,158,Center on Education Policy,2.9422,high,9/8/2009,9,8,2010
-Iceland,159,College Success Foundation,2.8108,high,11/1/2008,11,1,2011
-India,160,Houston Independent School District,2224.8674,high,11/5/2009,11,5,2009
-India,161,Ohio Department of Education,2304.0432,high,1/1/2008,1,1,2010
-India,162,Seattle Foundation,2358.0384,high,3/1/2008,3,1,2011
-Indonesia,163,Center for American Progress,2032.235,high,7/1/2008,7,1,2009
-Indonesia,164,EdVisions Inc,2033.0459,high,12/1/2008,12,1,2010
-Indonesia,165,College for All Texans Foundation: Closing the Gaps,2052.9103,high,11/1/2008,11,1,2011
-Iran,166,"Education Development Center, Inc.",698.445,high,11/18/2009,11,18,2009
-Iran,167,Fund for Educational Excellence,695.2992,high,5/1/2008,5,1,2010
-Iran,168,University of Texas at Austin,712.4475,high,11/18/2009,11,18,2011
-Iraq,169,"Rockefeller Philanthropy Advisors, Inc.",209.0061,high,9/1/2008,9,1,2009
-Iraq,170,Council of Chief State School Officers,227.1567,high,10/12/2009,10,12,2010
-Iraq,171,College Summit Inc.,236.1285,high,5/1/2008,5,1,2011
-Ireland,172,Dallas Independent School District,60.5836,high,1/4/2010,1,4,2009
-Ireland,173,National Center for the Improvement of Educational Assessment Inc.,60.163,high,11/19/2009,11,19,2010
-Ireland,174,College Summit Inc,56.4101,high,5/22/2009,5,22,2011
-Israel,175,Charlotte-Mecklenburg Schools,81.6508,high,9/3/2009,9,3,2009
-Israel,176,"ACT, Inc.",86.9162,high,9/14/2009,9,14,2010
-Israel,177,Partnership for Learning,86.9609,high,11/1/2009,11,1,2011
-Italy,178,Tulsa Public Schools,456.0546,high,2/4/2010,2,4,2009
-Italy,179,League of Education Voters Foundation,463.1778,high,10/29/2009,10,29,2010
-Italy,180,National Center on Education & the Economy,457.9696,high,10/19/2009,10,19,2011
-Jamaica,181,Educational Testing Service,12.2799,high,11/14/2009,11,14,2009
+Haiti,148,American Federation Of Teachers Educational Foundation,8.1284,medium,1/1/2009,1,1,2009
+Armenia,21,The College-Ready Promise,8.2721,low,11/4/2009,11,4,2011
+Cyprus,434,Hillsborough County Public Schools,8.7575,high,5/17/2010,11,19,2010
+Cyprus,433,Hillsborough County Public Schools,9.0599,high,5/16/2010,11,19,2009
+Suriname,477,Hillsborough County Public Schools,9.1485,high,6/29/2010,11,19,2011
+Suriname,476,Hillsborough County Public Schools,9.1899,high,6/28/2010,11,19,2010
+Suriname,475,Hillsborough County Public Schools,9.4073,high,6/27/2010,11,19,2009
+Georgia,122,Prichard Committee for Academic Excellence,9.4743,medium,11/16/2009,11,16,2010
+Mauritania,258,Hillsborough County Public Schools,9.5768,high,11/22/2009,11,19,2011
+Mauritania,257,Hillsborough County Public Schools,9.9108,high,11/21/2009,11,19,2010
+Mauritania,256,Hillsborough County Public Schools,9.9396,high,11/20/2009,11,19,2009
+Georgia,121,Committee for Economic Development,10.0446,medium,5/5/2009,5,5,2009
+Tajikistan,493,Hillsborough County Public Schools,10.4229,high,7/15/2010,11,19,2009
+Georgia,123,National Association of State Boards of Education,10.4328,medium,5/1/2008,5,1,2011
+Sierra Leone,448,Hillsborough County Public Schools,10.591,high,5/31/2010,11,19,2009
+Sierra Leone,449,Hillsborough County Public Schools,10.7209,high,6/1/2010,11,19,2010
+Tajikistan,494,Hillsborough County Public Schools,10.8228,high,7/16/2010,11,19,2010
+Tajikistan,495,Hillsborough County Public Schools,10.905,high,7/17/2010,11,19,2011
+Moldova,265,Hillsborough County Public Schools,11.2518,high,11/29/2009,11,19,2009
+Moldova,267,Hillsborough County Public Schools,11.4643,high,12/1/2009,11,19,2011
+Luxembourg,234,The Big Picture Company,11.491,high,7/1/2008,7,1,2011
+Luxembourg,232,United Way of America,11.535,high,1/1/2009,1,1,2009
+Sierra Leone,450,Hillsborough County Public Schools,11.6091,high,6/2/2010,11,19,2011
+Moldova,266,Hillsborough County Public Schools,11.8209,high,11/30/2009,11,19,2010
 Jamaica,182,Pacific Institute For Community Organizations,12.0012,high,9/1/2008,9,1,2010
 Jamaica,183,The Urban Teacher Residency Institute,12.1052,high,9/1/2009,9,1,2011
-Japan,184,Advance Illinois,1073.0782,high,5/15/2008,5,15,2009
-Japan,185,"Teach for America, Inc.",1119.975,high,10/5/2009,10,5,2010
-Japan,186,New Schools Fund dba NewSchools Venture Fund,1170.283,high,5/1/2008,5,1,2011
-Jordan,187,University of Chicago - Urban Education Institute,26.0494,high,3/1/2008,3,1,2009
-Jordan,188,"Rockefeller Philanthropy Advisors, Inc.",25.8197,high,10/19/2009,10,19,2010
-Jordan,189,Board Of Control For Southern Regional Education,24.9676,high,3/1/2008,3,1,2011
-Kazakhstan,190,Memphis City Schools,264.0782,high,11/3/2009,11,3,2009
-Kazakhstan,191,Editorial Projects in Education,300.8368,high,5/1/2009,5,1,2010
-Kazakhstan,192,National Congress of Parents and Teachers,302.8126,high,11/3/2009,11,3,2011
-Kenya,193,Deutsche Bank Americas Foundation,55.5594,high,11/1/2008,11,1,2009
-Kenya,194,Project GRAD,56.8606,high,9/1/2008,9,1,2010
-Kenya,195,The Trust For Early Education Inc,55.6479,high,9/17/2009,9,17,2011
-Kiribati,196,Communities Foundation of Texas,0.0551,high,9/1/2008,9,1,2009
-Kiribati,197,CELT Corporation,0.0774,high,11/19/2009,11,19,2010
-Kiribati,198,Americas Promise-The Alliance For Youth,0.0747,high,3/19/2008,3,19,2011
-"Korea, Dem. Rep. (North)",199,"The James B. Hunt, Jr. Institute for Educational Leadership and Policy",110.8577,high,5/1/2008,5,1,2009
-"Korea, Dem. Rep. (North)",200,The Bridgespan Group,108.6613,high,4/20/2009,4,20,2010
-"Korea, Dem. Rep. (North)",201,Math Solutions,107.1026,high,11/20/2009,11,20,2011
-"Korea, Rep. (South)",202,IB Fund US Inc.,580.6889,high,8/22/2009,8,22,2009
-"Korea, Rep. (South)",203,National Governors Association Center For Best Practices,629.5671,high,5/1/2008,5,1,2010
-"Korea, Rep. (South)",204,DC Public Education Fund,655.612,high,11/12/2009,11,12,2011
-Kuwait,205,Prince George's County Public Schools,189.5841,high,1/4/2010,1,4,2009
-Kuwait,206,Hillsborough County Public Schools,191.8787,high,10/20/2009,10,20,2010
-Kuwait,207,National Council on Teacher Quality,195.6716,high,10/21/2009,10,21,2011
-Kyrgyzstan,208,National Alliance For Public Charter Schools,-5.4133,high,9/1/2008,9,1,2009
-Kyrgyzstan,209,Institute for a Competitive Workforce,-4.6703,high,10/8/2008,10,8,2010
-Kyrgyzstan,210,"Alliance for Excellent Education, Inc.",-4.5165,high,9/1/2008,9,1,2011
-Laos,211,Fund for Public Schools Inc.,45.0161,high,8/28/2009,8,28,2009
-Laos,212,Aspire Public Schools,45.2108,high,9/1/2008,9,1,2010
-Laos,213,Communities Foundation of Texas,44.8948,high,11/1/2008,11,1,2011
-Latvia,214,National Association Of Charter School Authorizers,-3.3368,high,10/1/2008,10,1,2009
-Latvia,215,Regents Of The University Of California At Berkeley,-2.2515,high,11/20/2009,11,20,2010
-Latvia,216,New York University,-3.2577,high,10/1/2008,10,1,2011
-Lebanon,217,University of Chicago (Parent Org),25.124,high,5/1/2008,5,1,2009
-Lebanon,218,"Third Sector New England, Inc.",24.3469,high,9/1/2008,9,1,2010
-Lebanon,219,New Venture Fund,21.9894,high,11/4/2009,11,4,2011
-Lesotho,220,The Big Picture Company,2.3531,high,7/15/2009,7,15,2009
-Lesotho,221,"Rockefeller Philanthropy Advisors, Inc.",2.6993,high,9/25/2009,9,25,2010
-Lesotho,222,Idea Academy Inc,2.6246,high,11/1/2008,11,1,2011
-Liberia,223,College Summit Inc,16.5691,high,5/1/2008,5,1,2009
-Liberia,224,Regents Of The University Of California At Berkeley,16.8827,high,9/25/2009,9,25,2010
-Liberia,225,Council Of The Great City Schools,16.7033,high,10/1/2008,10,1,2011
-Libya,226,Dallas Independent School District,140.3229,high,12/1/2008,12,1,2009
-Libya,227,The Aspen Institute,145.7536,high,11/18/2009,11,18,2010
-Libya,228,New Schools Fund dba NewSchools Venture Fund,116.9964,high,5/1/2008,5,1,2011
-Lithuania,229,New Schools Fund dba NewSchools Venture Fund,25.9959,high,7/1/2008,7,1,2009
-Lithuania,230,"Newark Charter School Fund, Inc.",26.7093,high,2/15/2008,2,15,2010
-Lithuania,231,"SeaChange Capital Partners, Inc.",26.6593,high,12/1/2008,12,1,2011
-Luxembourg,232,United Way of America,11.535,high,1/1/2009,1,1,2009
 Luxembourg,233,"Teach Plus, Incorporated",12.1485,high,9/30/2009,9,30,2010
-Luxembourg,234,The Big Picture Company,11.491,high,7/1/2008,7,1,2011
-"Macedonia, FYR",235,DonorsChoose.org,12.4791,high,11/1/2008,11,1,2009
+Jamaica,181,Educational Testing Service,12.2799,high,11/14/2009,11,14,2009
 "Macedonia, FYR",236,Regents University Of California Los Angeles,12.4073,high,11/12/2009,11,12,2010
+"Macedonia, FYR",235,DonorsChoose.org,12.4791,high,11/1/2008,11,1,2009
 "Macedonia, FYR",237,"James B. Hunt, Jr. Institute for Educational Leadership and Policy Foundation, Inc.",12.9296,high,11/5/2009,11,5,2011
+Uruguay,536,Hillsborough County Public Schools,13.1671,high,8/27/2010,11,19,2010
+Belize,49,Rensselaer Polytechnic Institute,13.747,medium,12/1/2008,12,1,2009
+El Salvador,93,Regents of the University of California at Berkeley,13.8254,medium,10/22/2008,10,22,2011
+Belize,50,New Schools Fund dba NewSchools Venture Fund,13.9414,medium,9/10/2009,9,10,2010
+Uruguay,535,Hillsborough County Public Schools,14.0633,high,8/26/2010,11,19,2009
+El Salvador,92,MCNC,14.1367,medium,3/6/2009,3,6,2010
+Belize,51,New Schools Fund dba NewSchools Venture Fund,14.2332,medium,3/26/2009,3,26,2011
+Croatia,429,Hillsborough County Public Schools,14.2924,high,5/12/2010,11,19,2011
+El Salvador,91,Roads to Success Inc.,14.3197,medium,10/26/2009,10,26,2009
+Uruguay,537,Hillsborough County Public Schools,14.5451,high,8/28/2010,11,19,2011
+Croatia,428,Hillsborough County Public Schools,15.7967,high,5/11/2010,11,19,2010
+Togo,504,Hillsborough County Public Schools,16.4691,high,7/26/2010,11,19,2011
+Togo,502,Hillsborough County Public Schools,16.5666,high,7/24/2010,11,19,2009
+Liberia,223,College Summit Inc,16.5691,high,5/1/2008,5,1,2009
+Croatia,427,Hillsborough County Public Schools,16.6285,high,5/10/2010,11,19,2009
+Liberia,225,Council Of The Great City Schools,16.7033,high,10/1/2008,10,1,2011
+Togo,503,Hillsborough County Public Schools,16.7057,high,7/25/2010,11,19,2010
+Liberia,224,Regents Of The University Of California At Berkeley,16.8827,high,9/25/2009,9,25,2010
+Botswana,64,Louisiana Department of Education,19.0307,medium,11/19/2009,11,19,2009
+Niger,301,Hillsborough County Public Schools,19.3328,high,1/4/2010,11,19,2009
+Botswana,66,California Polytechnic State University Foundation,19.8567,medium,1/8/2009,1,8,2011
+Botswana,65,Ohio Department of Education,20.1171,medium,11/19/2009,11,19,2010
+Niger,302,Hillsborough County Public Schools,20.259,high,1/5/2010,11,19,2010
+Panama,322,Hillsborough County Public Schools,20.4386,high,1/25/2010,11,19,2009
+Niger,303,Hillsborough County Public Schools,20.5894,high,1/6/2010,11,19,2011
+Panama,323,Hillsborough County Public Schools,21.1526,high,1/26/2010,11,19,2010
+Panama,324,Hillsborough County Public Schools,21.376,high,1/27/2010,11,19,2011
+"Congo, Rep.",414,Hillsborough County Public Schools,21.7416,high,4/27/2010,11,19,2011
+Lebanon,219,New Venture Fund,21.9894,high,11/4/2009,11,4,2011
+"Congo, Rep.",413,Hillsborough County Public Schools,21.9944,high,4/26/2010,11,19,2010
+"Congo, Rep.",412,Hillsborough County Public Schools,22.3055,high,4/25/2010,11,19,2009
+Brunei,70,National Council of La Raza,22.5585,medium,11/10/2009,11,10,2009
+Malawi,241,National Student Clearinghouse Research Center,22.5777,high,11/20/2009,11,20,2009
+Brunei,71,American Institutes for Research,23.009,medium,12/1/2008,12,1,2010
+Malawi,242,Alliance for Education,23.3628,high,11/10/2008,11,10,2010
+Malawi,243,"The New Teacher Project, Inc.",23.477,high,7/10/2009,7,10,2011
+Namibia,284,Hillsborough County Public Schools,23.5119,high,12/18/2009,11,19,2010
+Namibia,283,Hillsborough County Public Schools,23.6557,high,12/17/2009,11,19,2009
+Namibia,285,Hillsborough County Public Schools,23.6887,high,12/19/2009,11,19,2011
+Brunei,72,"University System of Georgia Foundation, Inc.",24.09,medium,11/11/2009,11,11,2011
+Lebanon,218,"Third Sector New England, Inc.",24.3469,high,9/1/2008,9,1,2010
+Afghanistan,1,New Mexico Business Roundtable for Educational Excellence,24.4483,low,2/4/2010,2,4,2009
+Jordan,189,Board Of Control For Southern Regional Education,24.9676,high,3/1/2008,3,1,2011
+Lebanon,217,University of Chicago (Parent Org),25.124,high,5/1/2008,5,1,2009
+Estonia,100,Guaranteach,25.1913,medium,3/18/2010,3,18,2009
+Norway,310,Hillsborough County Public Schools,25.264,high,1/13/2010,11,19,2009
+Afghanistan,3,Denver School of Science and Technology Inc.,25.314,low,11/12/2009,11,12,2011
+Equatorial Guinea,95,Pollinate Ventures,25.5787,medium,11/8/2009,11,8,2010
+Equatorial Guinea,96,Fund for Public Schools Inc.,25.669,medium,11/13/2009,11,13,2011
+Equatorial Guinea,94,National Association of State Boards of Education,25.7157,medium,10/26/2009,10,26,2009
+Jordan,188,"Rockefeller Philanthropy Advisors, Inc.",25.8197,high,10/19/2009,10,19,2010
+Lithuania,229,New Schools Fund dba NewSchools Venture Fund,25.9959,high,7/1/2008,7,1,2009
+Jordan,187,University of Chicago - Urban Education Institute,26.0494,high,3/1/2008,3,1,2009
+Norway,312,Hillsborough County Public Schools,26.1185,high,1/15/2010,11,19,2011
+Afghanistan,2,Trustees of Dartmouth College,26.5382,low,8/3/2009,8,3,2010
+Lithuania,231,"SeaChange Capital Partners, Inc.",26.6593,high,12/1/2008,12,1,2011
+Lithuania,230,"Newark Charter School Fund, Inc.",26.7093,high,2/15/2008,2,15,2010
+Bahrain,36,Charlotte-Mecklenburg Schools,27.0429,medium,11/9/2009,11,9,2011
+Bahrain,34,Alliance for Education,27.0751,medium,2/26/2010,2,26,2009
+Bosnia & Herzegovina,61,Arkansas Department of Education,27.1385,medium,11/19/2009,11,19,2009
+Senegal,375,Hillsborough County Public Schools,27.1624,high,3/19/2010,11,19,2011
+Norway,311,Hillsborough County Public Schools,27.2304,high,1/14/2010,11,19,2010
+Bosnia & Herzegovina,62,Florida Department of Education,27.3532,medium,11/19/2009,11,19,2010
+Benin,52,Texas Charter Schools Association,27.4052,medium,5/18/2009,5,18,2009
+Benin,54,National Center For Educational Achievement,27.5198,medium,11/21/2009,11,21,2011
+Benin,53,American Federation Of Teachers Educational Foundation,27.9443,medium,6/23/2009,6,23,2010
+Bahrain,35,Texas Public Education Reform Foundation,27.9484,medium,7/28/2009,7,28,2010
+Senegal,373,Hillsborough County Public Schools,28.0425,high,3/17/2010,11,19,2009
+Senegal,374,Hillsborough County Public Schools,28.3144,high,3/18/2010,11,19,2010
+Estonia,101,"Strive: Cincinnati/Northern Kentucky, LLC",29.0265,medium,7/1/2008,7,1,2010
+Yemen,552,Hillsborough County Public Schools,29.4691,high,9/12/2010,11,19,2011
+Tunisia,513,Hillsborough County Public Schools,29.6101,high,8/4/2010,11,19,2011
+Estonia,102,New Teacher Center,29.6542,medium,10/13/2009,10,13,2011
+Bosnia & Herzegovina,63,Georgia Department of Education,29.66,medium,11/19/2009,11,19,2011
+Dominican Republic,84,"L.U.L.A.C. Institute, Inc.",29.9645,medium,9/21/2009,9,21,2011
+Dominican Republic,82,Council of State Governments,30.952,medium,3/18/2010,3,18,2009
+Dominican Republic,83,Mexican American Legal Defense and Educational Fund,31.442,medium,8/28/2009,8,28,2010
+Mali,250,Achieve Inc.,31.4471,high,2/1/2008,2,1,2009
+Burkina Faso,76,The NEA Foundation for the Improvement of Education,31.4858,medium,10/22/2009,10,22,2009
+Burkina Faso,77,"L.U.L.A.C. Institute, Inc.",32.0538,medium,3/1/2008,3,1,2010
+Burkina Faso,78,"University of California, Los Angeles",32.2443,medium,3/1/2008,3,1,2011
+Mali,251,President and Fellows of Harvard College,32.2724,high,6/17/2009,6,17,2010
+Yemen,550,Hillsborough County Public Schools,32.4524,high,9/10/2010,11,19,2009
+Guinea,139,Business Higher Education Forum,32.6014,medium,7/1/2008,7,1,2009
+Guinea,140,National Council of La Raza,32.8177,medium,11/10/2009,11,10,2010
+Mali,252,Pittsburgh Public Schools,33.0694,high,11/18/2009,11,18,2011
+Guinea,141,Friendship Public Charter School,33.1504,medium,11/3/2009,11,3,2011
+Tunisia,511,Hillsborough County Public Schools,33.381,high,8/2/2010,11,19,2009
+Yemen,551,Hillsborough County Public Schools,34.1512,high,9/11/2010,11,19,2010
+Tunisia,512,Hillsborough County Public Schools,34.2352,high,8/3/2010,11,19,2010
+Sweden,481,Hillsborough County Public Schools,34.384,high,7/3/2010,11,19,2009
+Slovakia,456,Hillsborough County Public Schools,35.6868,high,6/8/2010,11,19,2011
+Slovakia,454,Hillsborough County Public Schools,35.7253,high,6/6/2010,11,19,2009
+Slovakia,455,Hillsborough County Public Schools,37.0475,high,6/7/2010,11,19,2010
+Sweden,483,Hillsborough County Public Schools,37.2404,high,7/5/2010,11,19,2011
+Burundi,79,"Leadership Conference on Civil Rights Education Fund, Inc.",38.9325,medium,10/26/2009,10,26,2009
+Sweden,482,Hillsborough County Public Schools,39.5656,high,7/4/2010,11,19,2010
+Burundi,80,Florida Department of Education,41.1171,medium,10/30/2009,10,30,2010
+Burundi,81,Thomas B. Fordham Institute,41.6264,medium,6/15/2009,6,15,2011
+Nepal,289,Hillsborough County Public Schools,41.7351,high,12/23/2009,11,19,2009
+Nepal,290,Hillsborough County Public Schools,42.8585,high,12/24/2009,11,19,2010
+Nepal,291,Hillsborough County Public Schools,43.4725,high,12/25/2009,11,19,2011
+Trinidad & Tobago,508,Hillsborough County Public Schools,43.546,high,7/30/2010,11,19,2009
+Cuba,432,Hillsborough County Public Schools,43.5523,high,5/15/2010,11,19,2011
+Trinidad & Tobago,510,Hillsborough County Public Schools,44.1104,high,8/1/2010,11,19,2011
+Laos,213,Communities Foundation of Texas,44.8948,high,11/1/2008,11,1,2011
+Laos,211,Fund for Public Schools Inc.,45.0161,high,8/28/2009,8,28,2009
+Uganda,520,Hillsborough County Public Schools,45.2061,high,8/11/2010,11,19,2009
+Laos,212,Aspire Public Schools,45.2108,high,9/1/2008,9,1,2010
+Cuba,431,Hillsborough County Public Schools,45.2579,high,5/14/2010,11,19,2010
+Uganda,522,Hillsborough County Public Schools,45.345,high,8/13/2010,11,19,2011
+Bulgaria,73,Common Core Inc.,45.5866,medium,12/17/2009,12,17,2009
+Uganda,521,Hillsborough County Public Schools,45.6373,high,8/12/2010,11,19,2010
+Trinidad & Tobago,509,Hillsborough County Public Schools,46.049,high,7/31/2010,11,19,2010
+Nicaragua,298,Hillsborough County Public Schools,46.0621,high,1/1/2010,11,19,2009
+Sri Lanka,469,Hillsborough County Public Schools,46.4553,high,6/21/2010,11,19,2009
+Nicaragua,300,Hillsborough County Public Schools,46.5131,high,1/3/2010,11,19,2011
+Nicaragua,299,Hillsborough County Public Schools,46.5508,high,1/2/2010,11,19,2010
+Honduras,153,University of Wisconsin,47.0917,medium,3/1/2008,3,1,2011
+Cuba,430,Hillsborough County Public Schools,47.2309,high,5/13/2010,11,19,2009
+Switzerland,486,Hillsborough County Public Schools,47.2838,high,7/8/2010,11,19,2011
+Honduras,151,The Education Trust,47.326,medium,1/21/2010,1,21,2009
+Honduras,152,Ohio Grantmakers Forum,47.4738,medium,7/18/2009,7,18,2010
+Bulgaria,74,National Council for the Social Studies,47.5596,medium,6/1/2008,6,1,2010
+Sri Lanka,470,Hillsborough County Public Schools,48.0389,high,6/22/2010,11,19,2010
+Cambodia,382,Hillsborough County Public Schools,48.4525,high,3/26/2010,11,19,2009
+Cambodia,383,Hillsborough County Public Schools,48.7258,high,3/27/2010,11,19,2010
+Cambodia,384,Hillsborough County Public Schools,48.8516,high,3/28/2010,11,19,2011
+Sri Lanka,471,Hillsborough County Public Schools,49.3244,high,6/23/2010,11,19,2011
+Switzerland,484,Hillsborough County Public Schools,49.7123,high,7/6/2010,11,19,2009
+Guatemala,138,Denver Public Schools,50.2331,medium,11/13/2009,11,13,2011
+Guatemala,137,The Washington State Board of Education,50.5749,medium,3/1/2008,3,1,2010
+Mongolia,268,Hillsborough County Public Schools,51.027,high,12/2/2009,11,19,2009
+Guatemala,136,National Urban League Inc.,51.1263,medium,10/26/2009,10,26,2009
+Switzerland,485,Hillsborough County Public Schools,51.274,high,7/7/2010,11,19,2010
+Bulgaria,75,Pittsburgh Public Schools,52.401,medium,11/13/2009,11,13,2011
+Mongolia,269,Hillsborough County Public Schools,52.5383,high,12/3/2009,11,19,2010
+Chad,397,Hillsborough County Public Schools,52.5632,high,4/10/2010,11,19,2009
+New Zealand,297,Hillsborough County Public Schools,52.7174,high,12/31/2009,11,19,2011
+Chad,398,Hillsborough County Public Schools,52.7923,high,4/11/2010,11,19,2010
+New Zealand,296,Hillsborough County Public Schools,53.0408,high,12/30/2009,11,19,2010
+New Zealand,295,Hillsborough County Public Schools,53.0565,high,12/29/2009,11,19,2009
+Chad,399,Hillsborough County Public Schools,53.0596,high,4/12/2010,11,19,2011
+Mongolia,270,Hillsborough County Public Schools,53.4926,high,12/4/2009,11,19,2011
+Denmark,441,Hillsborough County Public Schools,54.8783,high,5/24/2010,11,19,2011
+Kenya,193,Deutsche Bank Americas Foundation,55.5594,high,11/1/2008,11,1,2009
+Kenya,195,The Trust For Early Education Inc,55.6479,high,9/17/2009,9,17,2011
+Mozambique,277,Hillsborough County Public Schools,56.1999,high,12/11/2009,11,19,2009
+Ireland,174,College Summit Inc,56.4101,high,5/22/2009,5,22,2011
+Mozambique,278,Hillsborough County Public Schools,56.6871,high,12/12/2009,11,19,2010
+Mozambique,279,Hillsborough County Public Schools,56.7346,high,12/13/2009,11,19,2011
+Kenya,194,Project GRAD,56.8606,high,9/1/2008,9,1,2010
+Azerbaijan,28,Austin Voices for Education and Youth,56.8718,low,10/1/2009,10,1,2009
+Zimbabwe,556,Hillsborough County Public Schools,57.0521,high,9/16/2010,11,19,2009
+Zimbabwe,557,Hillsborough County Public Schools,57.8627,high,9/17/2010,11,19,2010
+Ghana,127,Hope Street Group,58.0277,medium,11/7/2009,11,7,2009
+Zimbabwe,558,Hillsborough County Public Schools,58.47,high,9/18/2010,11,19,2011
+Azerbaijan,29,Prichard Committee for Academic Excellence,58.5329,medium,4/30/2010,4,30,2010
+Ghana,129,Educational Policy Improvement Center,59.2606,medium,5/5/2009,5,5,2011
+Ghana,128,Institute for a Competitive Workforce,59.4589,medium,11/11/2009,11,11,2010
+Ireland,173,National Center for the Improvement of Educational Assessment Inc.,60.163,high,11/19/2009,11,19,2010
+Denmark,440,Hillsborough County Public Schools,60.1913,high,5/23/2010,11,19,2010
+Denmark,439,Hillsborough County Public Schools,60.2704,high,5/22/2010,11,19,2009
+Ireland,172,Dallas Independent School District,60.5836,high,1/4/2010,1,4,2009
+Singapore,451,Hillsborough County Public Schools,61.2857,high,6/3/2010,11,19,2009
+Cote d'Ivoire,424,Hillsborough County Public Schools,61.9703,high,5/7/2010,11,19,2009
+Cote d'Ivoire,425,Hillsborough County Public Schools,62.1688,high,5/8/2010,11,19,2010
+Cote d'Ivoire,426,Hillsborough County Public Schools,62.2818,high,5/9/2010,11,19,2011
+Azerbaijan,30,Council Of The Great City Schools,64.7208,medium,3/18/2010,3,18,2011
+Hungary,156,Public Education Network,69.1482,high,7/10/2009,7,10,2011
+Singapore,452,Hillsborough County Public Schools,70.055,high,6/4/2010,11,19,2010
+Qatar,343,Hillsborough County Public Schools,70.2437,high,2/15/2010,11,19,2009
+Hungary,154,"Teach for America, Inc.",70.3001,medium,6/26/2009,6,26,2009
+Hungary,155,United Way Inc.,70.5821,high,1/15/2009,1,15,2010
+Singapore,453,Hillsborough County Public Schools,70.8907,high,6/5/2010,11,19,2011
+Portugal,341,Hillsborough County Public Schools,74.1196,high,2/13/2010,11,19,2010
+Portugal,342,Hillsborough County Public Schools,74.4565,high,2/14/2010,11,19,2011
+Finland,109,National Alliance For Public Charter Schools,75.271,medium,10/30/2009,10,30,2009
+Qatar,344,Hillsborough County Public Schools,75.2752,high,2/16/2010,11,19,2010
+Finland,111,Seattle Biomedical Research Institute,75.9098,medium,9/1/2008,9,1,2011
 Madagascar,238,Battelle For Kids,78.0746,high,10/1/2008,10,1,2009
 Madagascar,239,"GreatSchools, Inc.",78.5476,high,7/1/2008,7,1,2010
 Madagascar,240,The University of the State of New York,78.9568,high,7/29/2009,7,29,2011
-Malawi,241,National Student Clearinghouse Research Center,22.5777,high,11/20/2009,11,20,2009
-Malawi,242,Alliance for Education,23.3628,high,11/10/2008,11,10,2010
-Malawi,243,"The New Teacher Project, Inc.",23.477,high,7/10/2009,7,10,2011
+Portugal,340,Hillsborough County Public Schools,79.1833,high,2/12/2010,11,19,2009
+Israel,175,Charlotte-Mecklenburg Schools,81.6508,high,9/3/2009,9,3,2009
+Chile,400,Hillsborough County Public Schools,82.2173,high,4/13/2010,11,19,2009
+Finland,110,Nellie Mae Education Foundation,83.3728,medium,1/1/2009,1,1,2010
+Qatar,345,Hillsborough County Public Schools,83.553,high,2/17/2010,11,19,2011
+Austria,25,City of New Haven,84.0492,low,11/17/2009,11,17,2009
+Chile,401,Hillsborough County Public Schools,86.8362,high,4/14/2010,11,19,2010
+Israel,176,"ACT, Inc.",86.9162,high,9/14/2009,9,14,2010
+Israel,177,Partnership for Learning,86.9609,high,11/1/2009,11,1,2011
+Syria,489,Hillsborough County Public Schools,87.5735,high,7/11/2010,11,19,2011
+Morocco,274,Hillsborough County Public Schools,88.3221,high,12/8/2009,11,19,2009
+Austria,27,The Library of Congress,88.3732,low,3/1/2008,3,1,2011
+Morocco,276,Hillsborough County Public Schools,89.5053,high,12/10/2009,11,19,2011
+Austria,26,President and Fellows of Harvard College,89.7307,low,5/13/2009,5,13,2010
+Morocco,275,Hillsborough County Public Schools,92.0352,high,12/9/2009,11,19,2010
+Syria,487,Hillsborough County Public Schools,93.1236,high,7/9/2010,11,19,2009
+Turkmenistan,517,Hillsborough County Public Schools,93.4256,high,8/8/2010,11,19,2009
+Syria,488,Hillsborough County Public Schools,93.866,high,7/10/2010,11,19,2010
+Chile,402,Hillsborough County Public Schools,93.8922,high,4/15/2010,11,19,2011
+Oman,313,Hillsborough County Public Schools,95.8654,high,1/16/2010,11,19,2009
+Papua New Guinea,325,Hillsborough County Public Schools,97.1984,high,1/28/2010,11,19,2009
+Papua New Guinea,326,Hillsborough County Public Schools,97.6247,high,1/29/2010,11,19,2010
+Papua New Guinea,327,Hillsborough County Public Schools,97.8507,high,1/30/2010,11,19,2011
+Oman,314,Hillsborough County Public Schools,99.0907,high,1/17/2010,11,19,2010
+Turkmenistan,518,Hillsborough County Public Schools,101.005,high,8/9/2010,11,19,2010
+Central African Republic,394,Hillsborough County Public Schools,102.7737,high,4/7/2010,11,19,2009
+Central African Republic,395,Hillsborough County Public Schools,103.4364,high,4/8/2010,11,19,2010
+Oman,315,Hillsborough County Public Schools,103.5336,high,1/18/2010,11,19,2011
+Central African Republic,396,Hillsborough County Public Schools,103.9375,high,4/9/2010,11,19,2011
+Greece,132,Tides Center,106.4736,medium,11/10/2009,11,10,2011
+"Korea, Dem. Rep. (North)",201,Math Solutions,107.1026,high,11/20/2009,11,20,2011
+Belarus,43,Tiger Woods Foundation Inc.,107.1238,medium,8/29/2009,8,29,2009
+Turkmenistan,519,Hillsborough County Public Schools,107.1559,high,8/10/2010,11,19,2011
+Greece,131,National Association of Street Schools,107.6441,medium,5/1/2008,5,1,2010
+"Korea, Dem. Rep. (North)",200,The Bridgespan Group,108.6613,high,4/20/2009,4,20,2010
+Belarus,44,"Public Agenda Foundation, Inc.",110.5189,medium,3/2/2009,3,2,2010
+"Korea, Dem. Rep. (North)",199,"The James B. Hunt, Jr. Institute for Educational Leadership and Policy",110.8577,high,5/1/2008,5,1,2009
+Belarus,45,Rensselaer Polytechnic Institute,111.4963,medium,9/29/2009,9,29,2011
+Paraguay,328,Hillsborough County Public Schools,111.5814,high,1/31/2010,11,19,2009
+Paraguay,329,Hillsborough County Public Schools,112.8127,high,2/1/2010,11,19,2010
+Paraguay,330,Hillsborough County Public Schools,113.2758,high,2/2/2010,11,19,2011
+Greece,130,Target Area Development Corporation,114.7317,medium,7/1/2008,7,1,2009
+Libya,228,New Schools Fund dba NewSchools Venture Fund,116.9964,high,5/1/2008,5,1,2011
+Romania,347,Hillsborough County Public Schools,117.5375,high,2/19/2010,11,19,2010
+Czech Republic,436,Hillsborough County Public Schools,120.4782,high,5/19/2010,11,19,2009
+Romania,346,Hillsborough County Public Schools,121.1944,high,2/18/2010,11,19,2009
+Belgium,46,National Commission on Teachings & America's Future,122.43,medium,1/1/2009,1,1,2009
+Czech Republic,438,Hillsborough County Public Schools,123.0887,high,5/21/2010,11,19,2011
+Romania,348,Hillsborough County Public Schools,123.8823,high,2/20/2010,11,19,2011
+Czech Republic,437,Hillsborough County Public Schools,124.4638,high,5/20/2010,11,19,2010
+Zambia,553,Hillsborough County Public Schools,125.1489,high,9/13/2010,11,19,2009
+Zambia,554,Hillsborough County Public Schools,128.6095,high,9/14/2010,11,19,2010
+Zambia,555,Hillsborough County Public Schools,128.9368,high,9/15/2010,11,19,2011
+Belgium,47,President and Fellows of Harvard College,129.1643,medium,2/25/2010,2,25,2010
+Belgium,48,Illinois State Board of Education,129.9276,medium,10/1/2008,10,1,2011
+Ecuador,85,National Summer Learning Association,134.8668,medium,11/1/2009,11,1,2009
+Ecuador,86,"Teachers College, Columbia University",135.5452,medium,9/29/2009,9,29,2010
+Ecuador,87,Communities Foundation of Texas,136.0301,medium,10/15/2009,10,15,2011
+Philippines,334,Hillsborough County Public Schools,138.0487,high,2/6/2010,11,19,2009
+Libya,226,Dallas Independent School District,140.3229,high,12/1/2008,12,1,2009
+Ethiopia,103,New Technology Foundation,144.537,medium,9/1/2008,9,1,2009
+Libya,227,The Aspen Institute,145.7536,high,11/18/2009,11,18,2010
+Philippines,335,Hillsborough County Public Schools,145.7789,high,2/7/2010,11,19,2010
+Peru,331,Hillsborough County Public Schools,146.8104,high,2/3/2010,11,19,2009
+Philippines,336,Hillsborough County Public Schools,147.5862,high,2/8/2010,11,19,2011
+Bolivia,58,Envision Schools,147.7118,medium,6/1/2008,6,1,2009
+Ethiopia,104,"University of California, Los Angeles",148.3437,medium,12/1/2008,12,1,2010
+Bolivia,59,Silicon Valley Community Foundation,149.3575,medium,11/10/2009,11,10,2010
+Bolivia,60,"ACT, Inc.",149.7116,medium,10/1/2008,10,1,2011
+Ethiopia,105,National Conference of State Legislatures,149.9082,medium,5/1/2008,5,1,2011
+Peru,332,Hillsborough County Public Schools,150.7154,high,2/4/2010,11,19,2010
+Bangladesh,37,Washington State Commission on African American Affairs,153.3486,medium,11/20/2009,11,20,2009
+Peru,333,Hillsborough County Public Schools,153.6466,high,2/5/2010,11,19,2011
+Bangladesh,38,Cristo Rey Network,157.8669,medium,11/6/2009,11,6,2010
+Bangladesh,39,American Institutes for Research,160.115,medium,3/1/2008,3,1,2011
+Algeria,7,FSG Social Impact Advisors,165.2191,low,9/24/2009,9,24,2009
+Algeria,8,Aspire Public Schools,166.7126,low,10/29/2009,10,29,2010
+Tanzania,496,Hillsborough County Public Schools,171.6307,high,7/18/2010,11,19,2009
+Tanzania,498,Hillsborough County Public Schools,172.4985,high,7/20/2010,11,19,2011
+Algeria,9,Educational Policy Improvement Center,172.516,low,11/16/2009,11,16,2011
+Tanzania,497,Hillsborough County Public Schools,172.5317,high,7/19/2010,11,19,2010
+Sudan,473,Hillsborough County Public Schools,186.007,high,6/25/2010,11,19,2010
+Sudan,474,Hillsborough County Public Schools,186.3705,high,6/26/2010,11,19,2011
+Kuwait,205,Prince George's County Public Schools,189.5841,high,1/4/2010,1,4,2009
+Sudan,472,Hillsborough County Public Schools,191.0734,high,6/24/2010,11,19,2009
+Kuwait,206,Hillsborough County Public Schools,191.8787,high,10/20/2009,10,20,2010
+United Arab Emirates,526,Hillsborough County Public Schools,195.265,high,8/17/2010,11,19,2009
+Kuwait,207,National Council on Teacher Quality,195.6716,high,10/21/2009,10,21,2011
+Cameroon,387,Hillsborough County Public Schools,199.2164,high,3/31/2010,11,19,2011
+Cameroon,386,Hillsborough County Public Schools,199.5086,high,3/30/2010,11,19,2010
+Cameroon,385,Hillsborough County Public Schools,199.9201,high,3/29/2010,11,19,2009
+United Arab Emirates,527,Hillsborough County Public Schools,202.3437,high,8/18/2010,11,19,2010
+Netherlands,294,Hillsborough County Public Schools,207.876,high,12/28/2009,11,19,2011
+Iraq,169,"Rockefeller Philanthropy Advisors, Inc.",209.0061,high,9/1/2008,9,1,2009
+Netherlands,292,Hillsborough County Public Schools,210.279,high,12/26/2009,11,19,2009
+United Arab Emirates,528,Hillsborough County Public Schools,210.9945,high,8/19/2010,11,19,2011
+Uzbekistan,539,Hillsborough County Public Schools,214.0483,high,8/30/2010,11,19,2010
+Uzbekistan,538,Hillsborough County Public Schools,214.565,high,8/29/2010,11,19,2009
+Colombia,406,Hillsborough County Public Schools,214.7454,high,4/19/2010,11,19,2009
+Colombia,407,Hillsborough County Public Schools,216.3056,high,4/20/2010,11,19,2010
+Netherlands,293,Hillsborough County Public Schools,220.1469,high,12/27/2009,11,19,2010
+Colombia,408,Hillsborough County Public Schools,222.9483,high,4/21/2010,11,19,2011
+Uzbekistan,540,Hillsborough County Public Schools,225.3951,high,8/31/2010,11,19,2011
+Iraq,170,Council of Chief State School Officers,227.1567,high,10/12/2009,10,12,2010
+Vietnam,547,Hillsborough County Public Schools,231.3463,high,9/7/2010,11,19,2009
+Myanmar,280,Hillsborough County Public Schools,235.5515,high,12/14/2009,11,19,2009
+Iraq,171,College Summit Inc.,236.1285,high,5/1/2008,5,1,2011
+Myanmar,281,Hillsborough County Public Schools,238.0118,high,12/15/2009,11,19,2010
+Myanmar,282,Hillsborough County Public Schools,239.183,high,12/16/2009,11,19,2011
+Vietnam,548,Hillsborough County Public Schools,250.0867,high,9/8/2010,11,19,2010
+Angola,10,E3 Alliance,252.3366,low,10/28/2009,10,28,2009
+Taiwan,490,Hillsborough County Public Schools,254.9153,high,7/12/2010,11,19,2009
+Vietnam,549,Hillsborough County Public Schools,260.3403,high,9/9/2010,11,19,2011
+Angola,11,"Hillsborough Education Foundation, Inc.",262.3005,low,11/2/2009,11,2,2010
+Angola,12,The College-Ready Promise,263.4348,low,11/2/2009,11,2,2011
+Kazakhstan,190,Memphis City Schools,264.0782,high,11/3/2009,11,3,2009
+Egypt,88,Business Higher Education Forum,268.852,medium,11/4/2009,11,4,2009
+Taiwan,492,Hillsborough County Public Schools,269.5649,high,7/14/2010,11,19,2011
+Taiwan,491,Hillsborough County Public Schools,274.8503,high,7/13/2010,11,19,2010
+Egypt,89,National Staff Development Council,276.3722,medium,11/1/2008,11,1,2010
+Egypt,90,Southeast Asia Resource Action Center,286.1054,medium,8/28/2009,8,28,2011
+Kazakhstan,191,Editorial Projects in Education,300.8368,high,5/1/2009,5,1,2010
+Kazakhstan,192,National Congress of Parents and Teachers,302.8126,high,11/3/2009,11,3,2011
+Poland,337,Hillsborough County Public Schools,316.1634,high,2/9/2010,11,19,2009
+"Congo, Dem. Rep.",415,Hillsborough County Public Schools,316.6847,high,4/28/2010,11,19,2009
+"Congo, Dem. Rep.",416,Hillsborough County Public Schools,317.3795,high,4/29/2010,11,19,2010
+"Congo, Dem. Rep.",417,Hillsborough County Public Schools,317.9229,high,4/30/2010,11,19,2011
+Thailand,499,Hillsborough County Public Schools,321.2704,high,7/21/2010,11,19,2009
+Pakistan,316,Hillsborough County Public Schools,325.2733,high,1/19/2010,11,19,2009
+Pakistan,317,Hillsborough County Public Schools,326.6593,high,1/20/2010,11,19,2010
+Poland,339,Hillsborough County Public Schools,329.6969,high,2/11/2010,11,19,2011
+Pakistan,318,Hillsborough County Public Schools,330.1926,high,1/21/2010,11,19,2011
+Poland,338,Hillsborough County Public Schools,333.2904,high,2/10/2010,11,19,2010
+Spain,467,Hillsborough County Public Schools,334.3103,high,6/19/2010,11,19,2010
+Spain,468,Hillsborough County Public Schools,335.626,high,6/20/2010,11,19,2011
+Ukraine,523,Hillsborough County Public Schools,338.53,high,8/14/2010,11,19,2009
+Turkey,514,Hillsborough County Public Schools,338.778,high,8/5/2010,11,19,2009
+Thailand,500,Hillsborough County Public Schools,344.5517,high,7/22/2010,11,19,2010
+Spain,466,Hillsborough County Public Schools,351.4984,high,6/18/2010,11,19,2009
+Thailand,501,Hillsborough County Public Schools,352.8642,high,7/23/2010,11,19,2011
+Turkey,515,Hillsborough County Public Schools,353.3523,high,8/6/2010,11,19,2010
+Ukraine,524,Hillsborough County Public Schools,356.9985,high,8/15/2010,11,19,2010
+Ukraine,525,Hillsborough County Public Schools,371.5221,high,8/16/2010,11,19,2011
+Turkey,516,Hillsborough County Public Schools,374.7055,high,8/7/2010,11,19,2011
+Venezuela,546,Hillsborough County Public Schools,381.0353,high,9/6/2010,11,19,2011
+Venezuela,544,Hillsborough County Public Schools,388.3692,high,9/4/2010,11,19,2009
+Venezuela,545,Hillsborough County Public Schools,399.0262,high,9/5/2010,11,19,2010
 Malaysia,244,Educational Testing Service,414.432,high,11/1/2008,11,1,2009
+Argentina,16,"New Visions for Public Schools, Inc",418.7746,low,11/10/2009,11,10,2009
+Argentina,17,School District of Philadelphia,426.0262,low,11/13/2009,11,13,2010
 Malaysia,245,Asia Society,428.9105,high,11/1/2008,11,1,2010
+Argentina,18,Hamilton County Department of Education,434.6935,low,11/1/2009,11,1,2011
 Malaysia,246,Council of Chief State School Officers,441.2864,high,7/1/2009,7,1,2011
-Maldives,247,"Rockefeller Philanthropy Advisors, Inc.",1.1499,high,3/1/2008,3,1,2009
-Maldives,248,Denver Public Schools,1.1599,high,1/4/2010,1,4,2010
-Maldives,249,Atlanta Public Schools,1.1581,high,1/13/2010,1,13,2011
-Mali,250,Achieve Inc.,31.4471,high,2/1/2008,2,1,2009
-Mali,251,President and Fellows of Harvard College,32.2724,high,6/17/2009,6,17,2010
-Mali,252,Pittsburgh Public Schools,33.0694,high,11/18/2009,11,18,2011
-Malta,253,The College-Ready Promise,2.9692,high,11/19/2009,11,19,2009
-Malta,254,Memphis City Schools,3.012,high,11/19/2009,11,19,2010
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+South Africa,463,Hillsborough County Public Schools,450.5926,high,6/15/2010,11,19,2009
+Italy,178,Tulsa Public Schools,456.0546,high,2/4/2010,2,4,2009
+South Africa,465,Hillsborough County Public Schools,457.3271,high,6/17/2010,11,19,2011
+Italy,180,National Center on Education & the Economy,457.9696,high,10/19/2009,10,19,2011
+South Africa,464,Hillsborough County Public Schools,458.765,high,6/16/2010,11,19,2010
+France,114,National Indian Education Association,462.5941,medium,8/31/2009,8,31,2011
+Italy,179,League of Education Voters Foundation,463.1778,high,10/29/2009,10,29,2010
+Saudi Arabia,370,Hillsborough County Public Schools,471.1132,high,3/14/2010,11,19,2009
+Nigeria,304,Hillsborough County Public Schools,473.8655,high,1/7/2010,11,19,2009
+France,112,"Teach for America, Inc.",480.5938,medium,10/1/2009,10,1,2009
+France,113,"Fund for the City of New York, Inc.",488.4332,medium,5/1/2008,5,1,2010
+Nigeria,305,Hillsborough County Public Schools,491.669,high,1/8/2010,11,19,2010
+Nigeria,306,Hillsborough County Public Schools,496.1326,high,1/9/2010,11,19,2011
+Saudi Arabia,371,Hillsborough County Public Schools,510.1386,high,3/15/2010,11,19,2010
+Saudi Arabia,372,Hillsborough County Public Schools,532.8904,high,3/16/2010,11,19,2011
+United Kingdom,531,Hillsborough County Public Schools,540.8256,high,8/22/2010,11,19,2011
+United Kingdom,529,Hillsborough County Public Schools,562.3474,high,8/20/2010,11,19,2009
+United Kingdom,530,Hillsborough County Public Schools,579.3852,high,8/21/2010,11,19,2010
+"Korea, Rep. (South)",202,IB Fund US Inc.,580.6889,high,8/22/2009,8,22,2009
+Australia,23,New York City Center for Charter School Excellence,592.4785,low,10/30/2009,10,30,2010
+Australia,24,"SEED Foundation, Inc.",595.2969,low,1/28/2010,1,28,2011
+Australia,22,Texas Public Education Reform Foundation,599.0315,low,10/1/2008,10,1,2009
+"Korea, Rep. (South)",203,National Governors Association Center For Best Practices,629.5671,high,5/1/2008,5,1,2010
+"Korea, Rep. (South)",204,DC Public Education Fund,655.612,high,11/12/2009,11,12,2011
+Mexico,262,Hillsborough County Public Schools,690.0437,high,11/26/2009,11,19,2009
+Iran,167,Fund for Educational Excellence,695.2992,high,5/1/2008,5,1,2010
+Iran,166,"Education Development Center, Inc.",698.445,high,11/18/2009,11,18,2009
+Mexico,263,Hillsborough County Public Schools,706.0062,high,11/27/2009,11,19,2010
+Iran,168,University of Texas at Austin,712.4475,high,11/18/2009,11,18,2011
+Mexico,264,Hillsborough County Public Schools,723.1908,high,11/28/2009,11,19,2011
+Germany,124,National Center For Educational Achievement,799.2322,medium,9/1/2008,9,1,2009
+Canada,388,Hillsborough County Public Schools,800.7351,high,4/1/2010,11,19,2009
+Germany,126,Partnership for Learning,805.9671,medium,3/11/2009,3,11,2011
+Germany,125,National Council of La Raza,827.0112,medium,3/1/2008,3,1,2010
+Canada,389,Hillsborough County Public Schools,841.5982,high,4/2/2010,11,19,2010
+Canada,390,Hillsborough County Public Schools,847.0848,high,4/3/2010,11,19,2011
+Japan,184,Advance Illinois,1073.0782,high,5/15/2008,5,15,2009
+Japan,185,"Teach for America, Inc.",1119.975,high,10/5/2009,10,5,2010
+Japan,186,New Schools Fund dba NewSchools Venture Fund,1170.283,high,5/1/2008,5,1,2011
+Brazil,68,Twenty First Century Foundation,1392.6399,medium,5/1/2008,5,1,2010
+Brazil,67,Tennessee State Collaborative on Reforming Education,1400.1118,medium,2/19/2010,2,19,2009
+Brazil,69,Alliance for Education,1419.0984,medium,9/17/2008,9,17,2011
+Indonesia,163,Center for American Progress,2032.235,high,7/1/2008,7,1,2009
+Indonesia,164,EdVisions Inc,2033.0459,high,12/1/2008,12,1,2010
+Russian Federation,349,Hillsborough County Public Schools,2049.5665,high,2/21/2010,11,19,2009
+Indonesia,165,College for All Texans Foundation: Closing the Gaps,2052.9103,high,11/1/2008,11,1,2011
+Russian Federation,350,Hillsborough County Public Schools,2133.8469,high,2/22/2010,11,19,2010
+Russian Federation,351,Hillsborough County Public Schools,2216.5927,high,2/23/2010,11,19,2011
+India,160,Houston Independent School District,2224.8674,high,11/5/2009,11,5,2009
+India,161,Ohio Department of Education,2304.0432,high,1/1/2008,1,1,2010
+India,162,Seattle Foundation,2358.0384,high,3/1/2008,3,1,2011
+European Union (15),564,Hillsborough County Public Schools,3446.0188,high,9/24/2010,11,19,2011
+European Union (15),562,Hillsborough County Public Schools,3502.4438,high,9/22/2010,11,19,2009
+European Union (15),563,Hillsborough County Public Schools,3568.5646,high,9/23/2010,11,19,2010
+European Union (27),567,Hillsborough County Public Schools,4263.1506,high,9/27/2010,11,19,2011
+European Union (27),565,Hillsborough County Public Schools,4293.8234,high,9/25/2010,11,19,2009
+European Union (27),566,Hillsborough County Public Schools,4385.6144,high,9/26/2010,11,19,2010
+United States,532,Hillsborough County Public Schools,5996.7439,high,8/23/2010,11,19,2009
+United States,534,Hillsborough County Public Schools,6135.0273,high,8/25/2010,11,19,2011
+United States,533,Hillsborough County Public Schools,6253.7159,high,8/24/2010,11,19,2010
+China,403,Hillsborough County Public Schools,8792.1224,high,4/16/2010,11,19,2009
+China,404,Hillsborough County Public Schools,9387.0095,high,4/17/2010,11,19,2010
+China,405,Hillsborough County Public Schools,10260.3155,high,4/18/2010,11,19,2011
+World,559,Hillsborough County Public Schools,43146.5027,high,9/19/2010,11,19,2009
+World,560,Hillsborough County Public Schools,44766.4875,high,9/20/2010,11,19,2010
+World,561,Hillsborough County Public Schools,45913.5035,high,9/21/2010,11,19,2011
+Palau,321,Hillsborough County Public Schools,,high,1/24/2010,11,19,2011
