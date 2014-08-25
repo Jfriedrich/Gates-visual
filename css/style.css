@@ -1,3 +1,8 @@
+footer, .btn-group {
+display:none;
+}
+
+
 a, a:visited, a:active {
   color: #444;
 }
